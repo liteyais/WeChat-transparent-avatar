@@ -5,7 +5,9 @@
 ## 一、准备<br/>
 ①需要一部安卓手机。<br/>
 ②最新版微信客户端安装包。<br/>
-③旧版7.0.6版本以下客户端安装包。<br/>
+③旧版7.0.6版本以下客户端安装包。<a href="https://pan.baidu.com/s/17QK6FbxVdzZ-MkQltt3iCg?pwd=8jvu"  title="" target="_blank">百度盘链接</a>   提取码: 8jvu<br/>
+
+
 ④苹果用户可用安卓手机设置，需要使用旧版微信，苹果版不好获取。 <br/>
 
 ## 二、步骤
